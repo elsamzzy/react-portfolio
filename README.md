@@ -1,2 +1,2 @@
 # firstfinancecreditunion
-Backing website using laravel
+Banking website using laravel
